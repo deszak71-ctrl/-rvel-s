@@ -1,6 +1,6 @@
 {
-  "name": "Babits Mihály: Messze... messze... - 8. o. irodalomóra",
-  "description": "Interaktív 45 perces tananyagfeldolgozó alkalmazás 8. osztályos irodalomhoz: ráhangolódás, életrajzi szövegértés, a 8 képeslap versfeldolgozása, interaktív feladatok és pontozott zárókvíz.",
+  "name": "Érvelés, de okosan! - 8. osztály",
+  "description": "Gyakorold az érvelést és az érvelő esszéírást lépésről lépésre 5 életszerű témán keresztül 8. osztályosoknak: T-I-P modell, cáfolat párbaj és mintaesszék.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
